@@ -1,0 +1,14 @@
+{
+    "name": "Folio Marko Ronik",
+    "short_name": "Folio Marko Ronik",
+    "icons": [
+        {
+            "src": "assets/images/favicons/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#231f21",
+    "background_color": "#231f21",
+    "display": "standalone"
+}
